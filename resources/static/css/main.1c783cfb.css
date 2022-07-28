@@ -1,0 +1,108 @@
+.btn {
+  padding: 2px 12px;
+  border: 0 !important;
+  background-image: none !important;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+  background-color: #002F87 !important;
+}
+
+.btn-primary:hover:active {
+  background-color: #032a73 !important;
+}
+
+.SingleContentConfigFormBody__addButtons {
+  text-align: right;
+}
+
+.ContentsFilter {
+  margin-top: 30px;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  border: #EDEDED 1px solid;
+  overflow: auto;
+}
+
+.ContentsFilterModal.modal-dialog {
+  width: 80% !important;
+}
+
+/* .modal-dialog {
+  min-width: 75vw;
+} */
+
+/* .modal-dialog{
+  width: 80% !important;
+} */
+
+.SingleContentConfigForm {
+  background-color: white !important;
+}
+
+.SingleContentConfigFormBody__widgetTitle {
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 13px;
+}
+
+.SingleContentConfigFormBody__addButtons {
+  text-align: right;
+}
+
+.SingleContentConfigFormBody__contentTitle {
+  margin: 0;
+}
+
+.AddContentTypeFormBody__save--btn {
+  margin-left: 5px;
+}
+
+/* Single Page Custome Classes */
+.mt-2 {
+  margin-top: 2rem;
+}
+
+.rowCursorPointer {
+  cursor: pointer;
+}
+
+/* Show-Detail-Attribute-Modal CSS START */
+.modal-dialog {
+  width: 80%;
+}
+
+/* Show-Detail-Attribute-Modal CSS END */
+
+.SectionTitle__emphasize-caption, .SectionTitle__non-collapsable {
+  margin-bottom: 30px;
+  padding-bottom: 0;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 18px;
+}
+
+.SectionTitle {
+  width: 100%;
+  padding: 20px 0;
+  outline: none;
+  font-size: 16px;
+  line-height: inherit;
+  text-transform: capitalize;
+}
+
+/* Modal Start */
+div.tab-content .panel-heading {
+  background-color: white !important;
+  background-image: none !important;
+}
+
+div.tab-content .panel {
+  border: none !important;
+  box-shadow: none !important;
+}
+/* Modal End */
+
+/*# sourceMappingURL=main.1c783cfb.css.map*/
